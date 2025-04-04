@@ -10,4 +10,4 @@ This project uses historical data on game sales to identify patterns that determ
 **Tools used:** Python, Pandas, Numpy, Scipy, Plotly.express, Matplotlib, Seaborn
 
 **Files:**
-- Jupyter notebook: video_game_sales_forecasting.ipynb
+- Jupyter notebook: `video_game_sales_forecasting.ipynb`
